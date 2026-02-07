@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ドゥ・ユー",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T14:05:00.863776Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ホワット・ドゥ・ユー・ワント・フロム・ミー?",
+      "artist": "Cascada",
+      "has_synced": false,
+      "path": "select/01_ホワット・ドゥ・ユー・ワント・フロム・ミー_Cascada.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホワット・ドゥ・ユー・ウォント",
+      "artist": "Nico Vega",
+      "has_synced": false,
+      "path": "select/02_ホワット・ドゥ・ユー・ウォント_Nico_Vega.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋のテクニック(ハウ・ドゥ・ユー・ドゥ・イット) (Re-recorded Version)",
+      "artist": "Gerry & The Pacemakers",
+      "has_synced": false,
+      "path": "select/03_恋のテクニック(ハウ・ドゥ・ユー・ドゥ・イット)_(Re-recorded_Version)_Gerry_&_The_Pacemakers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do You Like It (ドゥ・ユー・ライク・イット)",
+      "artist": "Kingdom Come",
+      "has_synced": true,
+      "path": "select/04_Do_You_Like_It_(ドゥ・ユー・ライク・イット)_Kingdom_Come.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Do You",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Do_You_Ne-Yo.txt"
+    }
+  ]
+}
